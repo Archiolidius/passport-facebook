@@ -31,7 +31,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "github:Archiolidius/passport-oauth2"
+    "passport-oauth2": "https://github.com/Archiolidius/passport-oauth2"
   },
   "devDependencies": {
     "make-node": "0.3.x",
